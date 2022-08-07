@@ -162,8 +162,8 @@ header #toggle:after{
 .bar{
     position: absolute;
     display: flex;
-    flex-direction: row;
-    /*right: 100px;*/
+    flex-direction: column;
+    right: 100px;
     bottom: 180px;
 }
 
